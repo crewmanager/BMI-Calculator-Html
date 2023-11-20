@@ -1,4 +1,4 @@
-# BMI-Calculator-Html-1
+# BMI-Calculator-Html
 
 `main.mo`
 
